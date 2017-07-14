@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Counter ECL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Oct 07 2015 07:11:07 GMT+0200 (Hora de verano romance)\n"
+"PO-Revision-Date: 2015-11-19 06:20+0100\n"
+"Last-Translator: enrique <enrique.cerda@infocerda.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Loco-Target-Locale: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. URI of the plugin
+msgid "https://www.infocerda.com/en/plugins-for-wordpress"
+msgstr "https://www.infocerda.com/en/plugins-for-wordpress"
+
+#: ../contador.php:513 ../contador.php:524
+msgid "Dark"
+msgstr "Foncé"
+
+#: ../contador.php:514 ../contador.php:525
+msgid "White"
+msgstr "Blanc"
+
+#: ../contador.php:552
+msgid "Analog"
+msgstr "Analogique"
+
+#: ../contador.php:566
+msgid "Display counter with 3D effects"
+msgstr "Compteur d'affichage avec des effets 3D"
+
+#: ../contador.php:569
+msgid "Separate Numbers"
+msgstr "Séparez les numéros"
+
+#: ../contador.php:571
+msgid "Animation for new visitor:"
+msgstr "Animations pour les nouveau visiteur:"
+
+#: ../contador.php:574
+msgid "Move Numbers"
+msgstr "Numéros de Déplacer"
+
+#: ../contador.php:575
+msgid "Hide"
+msgstr "Cacher"
+
+#: ../contador.php:576
+msgid "Fade"
+msgstr "Fade"
+
+#: ../contador.php:577
+msgid "Slide"
+msgstr "Diapositive"
+
+#: ../contador.php:581
+msgid "Duration Effects new visitor:"
+msgstr "Durée Effets nouvelle visiteurs:"
+
+#: ../contador.php:585
+msgid "Top. Adjust position in px (- / + number):"
+msgstr "Haut. Ajustez la position en px (- / + numéro):"
+
+#. Name of the plugin
+msgid "Counter ECL"
+msgstr "Counter ECL"
+
+#. Description of the plugin
+msgid "Web counter widget."
+msgstr "Web counter widget."
+
+#. Author of the plugin
+msgid "Enrique Cerda"
+msgstr "Enrique Cerda"
+
+#. URI of the plugin
+msgid "http://www.infocerda.com"
+msgstr "http://www.infocerda.com"
+
+#: ../contador.php:163
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../contador.php:254
+msgid "Counter ECL is a hit counter for your web."
+msgstr "Counter ECL est un contator pour tu web"
+
+#: ../contador.php:261
+msgid "Counter ECL Settings"
+msgstr "Counter ECL Paramètres"
+
+#: ../contador.php:263
+msgid "Optimization Counter ECL"
+msgstr "Optimisation Counter ECL"
+
+#: ../contador.php:267
+msgid "Counter"
+msgstr "Compteur"
+
+#: ../contador.php:270
+msgid "visitor(s)"
+msgstr "visiteur(s)"
+
+#: ../contador.php:271
+msgid "This is the counter of your website."
+msgstr "Ceci est le compteur de votre site web."
+
+#: ../contador.php:276
+msgid "Time Cookie Expired"
+msgstr "Temps Cookie expiré"
+
+#: ../contador.php:279
+msgid "day(s)"
+msgstr "jour(nées)"
+
+#: ../contador.php:280
+msgid "This is the expiry time of the cookie, once expired is recounted the visit."
+msgstr ""
+"Ceci est l'heure d'expiration du cookie, une fois expiré est raconté la visite."
+
+#: ../contador.php:306
+msgid "Web counter"
+msgstr "Compteur Web"
+
+#: ../contador.php:503
+msgid "Title:"
+msgstr "Titre:"
+
+#: ../contador.php:506
+msgid "Background Color:"
+msgstr "Couleur de fond:"
+
+#: ../contador.php:508 ../contador.php:519
+msgid "Default"
+msgstr "Par défaut"
+
+#: ../contador.php:509 ../contador.php:520
+msgid "Green"
+msgstr "couleur verte"
+
+#: ../contador.php:510 ../contador.php:521
+msgid "Blue"
+msgstr "Bleu"
+
+#: ../contador.php:511 ../contador.php:522
+msgid "Yellow"
+msgstr "Jaune"
+
+#: ../contador.php:512 ../contador.php:523
+msgid "Red"
+msgstr "Rouge"
+
+#: ../contador.php:517
+msgid "Text/Label Color:"
+msgstr "Texte / Label Couleur:"
+
+#: ../contador.php:528
+msgid "Size:"
+msgstr "Taille:"
+
+#: ../contador.php:530
+msgid "Size 1"
+msgstr "Taille 1"
+
+#: ../contador.php:531
+msgid "Size 2"
+msgstr "Taille 2"
+
+#: ../contador.php:532
+msgid "Size 3"
+msgstr "Taille 3"
+
+#: ../contador.php:533
+msgid "Size 4"
+msgstr "Taille 4"
+
+#: ../contador.php:534
+msgid "Size 5"
+msgstr "Taille 5"
+
+#: ../contador.php:535
+msgid "Size 6"
+msgstr "Taille 6"
+
+#: ../contador.php:536
+msgid "Paragraph"
+msgstr "Paragraphe"
+
+#: ../contador.php:539
+msgid "Align:"
+msgstr "Aligner:"
+
+#: ../contador.php:541
+msgid "Right"
+msgstr "Droit"
+
+#: ../contador.php:542
+msgid "Left"
+msgstr "Gauche"
+
+#: ../contador.php:543
+msgid "Center"
+msgstr "Centre"
+
+#: ../contador.php:544
+msgid "Justify"
+msgstr "Justifier"
+
+#: ../contador.php:547
+msgid "Type:"
+msgstr "Type:"
+
+#: ../contador.php:549
+msgid "Text"
+msgstr "Texte"
+
+#: ../contador.php:550
+msgid "Badge"
+msgstr "Badge"
+
+#: ../contador.php:551
+msgid "Label"
+msgstr "Etiquette"
+
+#: ../contador.php:555
+msgid "Container:"
+msgstr "Conteneurs:"
+
+#: ../contador.php:557
+msgid "List"
+msgstr "Liste"
+
+#: ../contador.php:558
+msgid "Panel"
+msgstr "Panneau"
+
+#: ../contador.php:559 ../contador.php:573
+msgid "None"
+msgstr "aucun"
+
+#: ../contador.php:563
+msgid "Display counter with numeric format"
+msgstr "Compteur d'affichage avec un format numérique"
